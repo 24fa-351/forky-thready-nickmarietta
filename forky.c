@@ -67,13 +67,20 @@ void pattern2(int numOfThings)
                 exit(0);
             }
             // create the next process with the previous process
-            printf("Process %d now creating Process %d\n", ix, ix + 1);
+            if (ix < numOfThings)
+            {
+                printf("Process %d now creating Process %d\n", ix, ix + 1);
+            }
         }
         else
         {
             wait(NULL);
-            printf("Process %d with PID: %d ending!\n", ix, getpid());
-            exit(0);
+            // to avoid parent and child process to both fulfill the ending condition
+            if (ix != numOfThings)
+            {
+                printf("Process %d with PID: %d ending!\n", ix, getpid());
+                exit(0);
+            }
         }
     }
     printf("Main process with PID: %d ending!\n", getpid());
