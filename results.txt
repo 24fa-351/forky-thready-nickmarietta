@@ -1,0 +1,84 @@
+Running pattern 1
+Process 0 with PID: 14182 beginning!
+Process 1 with PID: 14183 beginning!
+Process 2 with PID: 14184 beginning!
+Process 3 with PID: 14185 beginning!
+Process 4 with PID: 14186 beginning!
+Process 5 with PID: 14187 beginning!
+Process 6 with PID: 14188 beginning!
+Process 7 with PID: 14189 beginning!
+Process 8 with PID: 14190 beginning!
+Process 9 with PID: 14191 beginning!
+Process 0 with PID: 14182 ending!
+Process 1 with PID: 14183 ending!
+Process 2 with PID: 14184 ending!
+Process 3 with PID: 14185 ending!
+Process 4 with PID: 14186 ending!
+Process 5 with PID: 14187 ending!
+Process 6 with PID: 14188 ending!
+Process 7 with PID: 14189 ending!
+Process 8 with PID: 14190 ending!
+Process 9 with PID: 14191 ending!
+Main process with PID: 14181 ending!
+
+Running pattern 2
+Process 1 with PID: 13537 beginning!
+Process 1 now creating Process 2
+Process 2 with PID: 13594 beginning!
+Process 2 now creating Process 3
+Process 3 with PID: 13619 beginning!
+Process 3 now creating Process 4
+Process 4 with PID: 13636 beginning!
+Process 4 now creating Process 5
+Process 5 with PID: 13651 beginning!
+Process 5 now creating Process 6
+Process 6 with PID: 13685 beginning!
+Process 6 now creating Process 7
+Process 7 with PID: 13725 beginning!
+Process 7 now creating Process 8
+Process 8 with PID: 13762 beginning!
+Process 8 now creating Process 9
+Process 9 with PID: 13808 beginning!
+Process 9 now creating Process 10
+Process 10 with PID: 13809 beginning!
+Process 10 with PID: 13809 ending!
+Process 10 with PID: 13808 ending!
+Process 9 with PID: 13762 ending!
+Process 8 with PID: 13725 ending!
+Process 7 with PID: 13685 ending!
+Process 6 with PID: 13651 ending!
+Process 5 with PID: 13636 ending!
+Process 4 with PID: 13619 ending!
+Process 3 with PID: 13594 ending!
+Process 2 with PID: 13537 ending!
+Process 1 with PID: 13536 ending!
+
+Running pattern 1
+Process 0 with PID: 14348 beginning!
+Process 1 with PID: 14349 beginning!
+Process 2 with PID: 14350 beginning!
+Process 3 with PID: 14351 beginning!
+Process 4 with PID: 14352 beginning!
+Process 0 with PID: 14348 ending!
+Process 1 with PID: 14349 ending!
+Process 2 with PID: 14350 ending!
+Process 3 with PID: 14351 ending!
+Process 4 with PID: 14352 ending!
+Main process with PID: 14347 ending!
+
+Running pattern 2
+Process 1 with PID: 14494 beginning!
+Process 1 now creating Process 2
+Process 2 with PID: 14537 beginning!
+Process 2 now creating Process 3
+Process 3 with PID: 14565 beginning!
+Process 3 now creating Process 4
+Process 4 with PID: 14579 beginning!
+Process 4 now creating Process 5
+Process 5 with PID: 14594 beginning!
+Process 5 with PID: 14594 ending!
+Process 5 with PID: 14579 ending!
+Process 4 with PID: 14565 ending!
+Process 3 with PID: 14537 ending!
+Process 2 with PID: 14494 ending!
+Process 1 with PID: 14493 ending!
